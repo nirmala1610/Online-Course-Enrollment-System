@@ -32,10 +32,6 @@ com.kce.courseenrollment.service # Business logic classes (CourseService, Studen
 com.kce.courseenrollment.exception # Custom exception (InvalidEnrollmentException)
 com.kce.courseenrollment.main # Entry point (CourseEnrollmentSystem.java)
 
-
-
----
-
 ## How to Compile & Run
 
 ### 1. Clone the Repository
@@ -57,7 +53,7 @@ Navigate to com.kce.courseenrollment.main.CourseEnrollmentSystem
 Right-click → Run As > Java Application
 
 Sample Output Screenshots
-
-Student Details
+```
+### Student Details
 Name: NIRMALADEVI S
 Roll No.: 717823P235
