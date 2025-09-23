@@ -53,6 +53,10 @@ Navigate to com.kce.courseenrollment.main.CourseEnrollmentSystem
 Right-click → Run As > Java Application
 
 Sample Output Screenshots
+<img width="1107" height="244" alt="image" src="https://github.com/user-attachments/assets/804a21d0-fb45-4ec3-aa96-5159b48ba7d9" />
+<img width="1113" height="266" alt="image" src="https://github.com/user-attachments/assets/f191b36c-cd44-4a0f-ac5b-9575ca06abaf" />
+
+
 ```
 ### Student Details
 Name: NIRMALADEVI S
