@@ -57,31 +57,7 @@ Navigate to com.kce.courseenrollment.main.CourseEnrollmentSystem
 Right-click → Run As > Java Application
 
 Sample Output Screenshots
-Main Menu
-markdown
-Copy code
-===== Online Course Enrollment System =====
-1. Add Course
-2. Add Student
-3. Enroll in Course
-4. Make Payment
-5. Display Courses
-6. Exit
-Enter choice:
-Successful Enrollment
-css
-Copy code
-✅ Enrollment successful! Please proceed to payment.
-Premium Discount Example
-yaml
-Copy code
-💎 Premium Discount Applied! New Fee: 4000.0
-✅ Payment Successful!
-===== Receipt =====
-Receipt ID: R101
-Student: John
-Course: Java Basics
-Amount Paid: 4000.0
+
 Student Details
-Name: [Your Name]
-Roll No.: [Your Roll Number]
+Name: NIRMALADEVI S
+Roll No.: 717823P235
