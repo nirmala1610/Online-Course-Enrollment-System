@@ -26,6 +26,13 @@ Design and implement a **Java console application** for a Course Enrollment Syst
 
 ---
 
+### UML Diagram
+
+<img width="473" height="664" alt="image" src="https://github.com/user-attachments/assets/93d875b7-afe8-4fe4-a668-2fa73744ad61" />
+
+
+---
+
 ## Project Structure
 com.kce.courseenrollment.model # Contains Course, Student, PremiumStudent, Instructor, Enrollment, Payment, Receipt
 com.kce.courseenrollment.service # Business logic classes (CourseService, StudentService, EnrollmentService, PaymentService)
