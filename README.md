@@ -30,13 +30,13 @@ Design and implement a **Java console application** for a Course Enrollment Syst
 com.kce.courseenrollment.model # Contains Course, Student, PremiumStudent, Instructor, Enrollment, Payment, Receipt
 com.kce.courseenrollment.service # Business logic classes (CourseService, StudentService, EnrollmentService, PaymentService)
 com.kce.courseenrollment.exception # Custom exception (InvalidEnrollmentException)
-com.kce.courseenrollment.main # Entry point (CourseEnrollmentSystem.java)
+com.kce.courseenrollment.main # Entry point (Main.java)
 
 ## How to Compile & Run
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/course-enrollment-system.git
+git clone https://github.com/nirmala1610/Online-Course-Enrollment-System/
 cd course-enrollment-system
 2. Open in Eclipse
 Open Eclipse IDE
